@@ -1,0 +1,25 @@
+.body {
+  background-color: rgb(31, 238, 24);
+  text-align: center;
+}
+.titre {
+  text-align: center;
+}
+.bg-white {
+  background-color: rgb(242, 250, 242);
+}
+.bg-green {
+  background-color: rgb(74, 168, 20);
+}
+.bg-red {
+  width: 100%;
+  background-color: red;
+  text-align: center;
+}
+.photo {
+  width: 100%;
+  height: 100vh;
+}
+p {
+  text-align: center;
+}
