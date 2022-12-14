@@ -261,3 +261,6 @@ img::after {
   font-weight: bold;
   color: darkgrey;
 }
+.contenu {
+  align-items: center;
+}
