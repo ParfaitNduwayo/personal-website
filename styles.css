@@ -264,3 +264,6 @@ img::after {
 .contenu {
   align-items: center;
 }
+.center {
+  text-align: center;
+}
